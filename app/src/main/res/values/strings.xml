@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">googleMapsApp</string>
+    <string name="app_name">GoogleMapsApp</string>
     <string name="gps_explaination">Please allow location permession to allow app to get nearby shops</string>
     <string name="ok">OK</string>
     <string name="title_activity_maps">Map</string>
