@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">googleMapsApp</string>
+    <string name="gps_explaination">Please allow location permession to allow app to get nearby shops</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyB_YctStViVtTpzS86mm91yQNNpbxv1iMg</string>
+</resources>
