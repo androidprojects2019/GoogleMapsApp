@@ -7,10 +7,6 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
-/**
- * Created by Mohamed Nabil Mohamed on 9/7/2019.
- * m.nabil.fci2015@gmail.com
- */
 public class BaseActivity extends AppCompatActivity {
 
     public AppCompatActivity activity;
